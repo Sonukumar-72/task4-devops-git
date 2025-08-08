@@ -26,7 +26,7 @@ Manage a DevOps project using Git best practices.
 
 ## 3. Workflow Diagram
 
-![Git Branch Workflow](path/to/image.png)
+![Git Branch Workflow](./assests/task4.png)
 
 ---
 
